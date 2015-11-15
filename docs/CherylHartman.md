@@ -3,3 +3,4 @@
  - [ ] Chicken Tiki Masala
  - [ ] Plays piano
  - [ ] Favorite color: Blue
+ - [ ] Favorite flower: Daisy
